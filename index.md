@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Main
 ---
 # GitHub Pages Sample by Jekyll
