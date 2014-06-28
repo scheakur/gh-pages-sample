@@ -7,3 +7,8 @@ title: Main
 - GitHub
 - Pages
 - Sample
+
+## こんにちは
+
+1. 本日ハ
+1. 晴天ナリ
